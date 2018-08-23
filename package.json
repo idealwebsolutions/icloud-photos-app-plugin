@@ -1,0 +1,31 @@
+{
+  "name": "icloud-photos-app-plugin",
+  "version": "1.0.0",
+  "description": "Manage photos on iCloud",
+  "main": "index.js",
+  "dependencies": {
+    "cookie": "^0.1.2",
+    "fastfall": "^1.5.1",
+    "image-type": "^2.0.1",
+    "needle": "^1.0.0",
+    "random-ua": "0.0.6",
+    "readable-stream": "^2.1.0"
+  },
+  "devDependencies": {
+    "fastparallel": "^2.2.1",
+    "standard": "^6.0.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/idealwebsolutions/icloud-photos-app-plugin.git"
+  },
+  "author": "idealwebsolutions",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/idealwebsolutions/icloud-photos-app-plugin/issues"
+  },
+  "homepage": "https://github.com/idealwebsolutions/icloud-photos-app-plugin"
+}
